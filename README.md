@@ -4,3 +4,4 @@ dc : https://discord.gg/8unNuUkyE9
 
 
 tools : https://github.com/tasfik222/fullpccheck/blob/main/tools
+ps scripts: https://github.com/tasfik222/fullpccheck/blob/main/ps%20scripts
